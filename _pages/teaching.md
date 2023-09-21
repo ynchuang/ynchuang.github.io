@@ -1,12 +1,42 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /experience/
+title: Experience
+description: 
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Education
 
-Organize your courses by years, topics, or universities, however you like!
+* Ph.D. in Computer Science, 2021 - now.  
+Rice University, TX, USA
+
+* M.S. in Computer Science, 2018 - 2020.  
+National ChengChi University, Taipei, Taiwan
+
+* B.S. in Mathematics, 2013 - 2017.  
+National ChengChi University, Taipei, Taiwan
+
+### Internship
+
+- **Research Intern** at Samsung Research America., 2023
+
+- **Data Scientist Intern** at KKBOX., 2020
+
+### Resaerch Experience
+
+* **Research Assistant**, 2021.  
+Institute of Information Science, Academia Sinica.  
+Topic: Privacy-aware Recommender Systems.
+
+* **Visiting Master's Student**, 2020.  
+Living Analytics Research Centre, Carnegie Mellon University & Singapore Management University.  
+Topic: Textaul-aware Recommeder Systems with Language Models.
+
+
+<!-- ### Teaching -->
+
+### Professional Service
+
+* Reviewer: KDD, NeurIPS, ICLR, CIKM, IEEE TAI, IEEE TIST, IEEE ICHI
