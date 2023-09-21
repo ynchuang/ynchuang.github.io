@@ -61,13 +61,13 @@
 #       institution: University of Zurich, Zurich, Switzerland
 #       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/ynchuang/DiscoverPath">DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Researchn</a>
-    - title: <a href="https://github.com/cnclabs/smore">SMORe: Modularize Graph Embedding for Recommendation</a>
-      description: Constructed a large-scale network embedding library for recommendation systems and network embedding algorithms which developed under C++ with multi-processing techniques.
-    - title: <a herf="https://github.com/cnclabs/codes.tpr.rec">TextRec: General Recommendation System with Textual Information</a>
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/ynchuang/DiscoverPath">DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Researchn</a>
+#     - title: <a href="https://github.com/cnclabs/smore">SMORe: Modularize Graph Embedding for Recommendation</a>
+#       description: Constructed a large-scale network embedding library for recommendation systems and network embedding algorithms which developed under C++ with multi-processing techniques.
+#     - title: <a herf="https://github.com/cnclabs/codes.tpr.rec">TextRec: General Recommendation System with Textual Information</a>
 
 # - title: Honors and Awards
 #   type: time_table
