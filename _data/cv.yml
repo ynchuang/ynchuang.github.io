@@ -8,6 +8,19 @@
 #     - name: Languages
 #       value: English, German
 
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/ynchuang/DiscoverPath">DiscoverPath - A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Researchn</a>
+      year: 2023
+      description: A KG-based retrieval system designed for biomedical research, aiming to assist biomedical researchers in dynamically refining their queries and effectively retrieving articles.
+    - title: <a href="https://github.com/cnclabs/codes.tpr.rec">TextRec - General Recommendation System with Textual Information</a>
+      year: 2021
+      description: A package of general ranking algorithms on learning textual information with recommendation system under C++ with multi-processing techniques.
+    - title: <a href="https://github.com/cnclabs/smore">SMORe - Modularize Graph Embedding for Recommendation</a>
+      year: 2020
+      description: Constructed a large-scale network embedding library for recommendation systems under C++ with multi-processing techniques.
+
 # - title: Education
 #   type: time_table
 #   contents:
