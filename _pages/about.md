@@ -30,7 +30,7 @@ Email: ynchuang [at] rice [dot] edu
 
 ### News
 
-- Oct. 2023: One paper selected as CIKM 2023 Best Demo Paper Honorable Mention
+- Oct. 2023: One paper about building knowledge refinement and retrieval systems for interdisciplinarity in biomedical research is selected as CIKM 2023 Best Demo Paper Honorable Mention
 
 - Sep. 2023: One paper accepted by The Communcation of ACM
 
