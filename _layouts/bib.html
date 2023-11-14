@@ -129,8 +129,12 @@
           {%- capture entryaward -%}{{ " " }}{{entry.award}}{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" and entryaward != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{{ entryaward }}{%- endcapture -%}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+
+        {%- if entry.award -%}
+          {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" and entryaward != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{{ entryaward }}{%- endcapture -%}
+        {%- else -%}
+          {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        {%- endif -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
