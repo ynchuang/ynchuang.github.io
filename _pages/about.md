@@ -30,11 +30,9 @@ Email: ynchuang [at] rice [dot] edu
 
 ### News
 
-- Jan. 2024: Our paper, The Science of Detecting LLM-Generated Texts, has been accepted for a highlighted publication in the April 2024 issue of Communications of the ACM (CACM) and CACM is creating an original video for our research!
+- Jan. 2024: Our paper, 'The Science of Detecting LLM-Generated Texts,' has been accepted and selected as a highlighted publication, accompanied by an original video, in the April 2024 issue of Communications of ACM.
 
-- Oct. 2023: One paper about building knowledge refinement and retrieval systems for interdisciplinarity in biomedical research is selected as CIKM 2023 Best Demo Paper Honorable Mention
-
-- Sep. 2023: One paper accepted by The Communcation of ACM
+- Oct. 2023: Our paper is selected as CIKM 2023 Best Demo Paper Honorable Mention!
 
 - Aug. 2023: One paper accepted by CIKM 2023
 
