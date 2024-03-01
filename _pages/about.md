@@ -30,6 +30,8 @@ Email: ynchuang [at] rice [dot] edu
 
 ### News
 
+- Jan. 2024: Our paper accepted by the Journal of Biomedical Informatics
+
 - Jan. 2024: Our paper, 'The Science of Detecting LLM-Generated Texts,' has been accepted and selected as a highlighted publication, accompanied by an original video, in the April 2024 issue of Communications of ACM.
 
 - Oct. 2023: Our paper is selected as CIKM 2023 Best Demo Paper Honorable Mention!
