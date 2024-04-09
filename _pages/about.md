@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Yu-Neng (Allen) Chuang, a third-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **Trustworthy issues on Large Language Models (Uncertainty, Explainability, and Safety)**, Explainable Artificial Intelligence, Healthcare AI, and Recommender Systems.
+I’m Yu-Neng (Allen) Chuang, a third-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthy Large Language Models, Explainable Artificial Intelligence, Healthcare AI, and Recommender Systems.
 
-Previously, I received my bachelor's degree in Mathematics and my master's degree in Computer Science, both from National ChengChi University.
+Currently, I am focus on uncertainty, explainability, and safety issues on Large Language Models, making the models to be more accessible and reliable to real-world applications.
 
 Email: ynchuang [at] rice [dot] edu
 
