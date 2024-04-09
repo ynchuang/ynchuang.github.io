@@ -29,23 +29,26 @@ Email: ynchuang [at] rice [dot] edu
 
 
 ### News
-- Mar. 2024: Two papers accepted by the NAACL 2024
 
-- Jan. 2024: One paper accepted by the Journal of Biomedical Informatics
+- Mar. 2024: Our paper, The Science of Detecting LLM-Generated Text, has been accepted for a cover publication in the April 2024 issue of Communications of the ACM (CACM)!
+
+- Mar. 2024: Two papers have been accepted by the NAACL 2024
+
+- Jan. 2024: One paper has been accepted by the Journal of Biomedical Informatics
 
 - Jan. 2024: Our paper, 'The Science of Detecting LLM-Generated Texts,' has been accepted and selected as a highlighted publication, accompanied by an original video, in the April 2024 issue of Communications of ACM.
 
-- Oct. 2023: Our paper is selected as CIKM 2023 Best Demo Paper Honorable Mention!
+- Oct. 2023: Our paper has been selected as CIKM 2023 Best Demo Paper Honorable Mention!
 
-- Aug. 2023: One paper accepted by CIKM 2023
+- Aug. 2023: One paper has been accepted by CIKM 2023
 
 - May 2023: I started my internship at Samsung Research America
 
-- Jan. 2023: One paper accepted by ICLR 2023
+- Jan. 2023: One paper has been accepted by ICLR 2023
 
-- Jul. 2022: One paper accepted by ICML 2022
+- Jul. 2022: One paper has been accepted by ICML 2022
 
-- Aug. 2020: One paper accepted by CIKM 2020
+- Aug. 2020: One paper has been accepted by CIKM 2020
 
-- May 2020: One paper accepted by UAI 2020
+- May 2020: One paper has been accepted by UAI 2020
 
