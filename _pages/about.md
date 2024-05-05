@@ -30,7 +30,9 @@ Email: ynchuang [at] rice [dot] edu
 
 ### News
 
-- Mar. 2024: Our paper, The Science of Detecting LLM-Generated Text, has been accepted for a cover publication in the April 2024 issue of Communications of the ACM (CACM)!
+- May 2024: One paper has been accepted by ICML 2024
+
+- Mar. 2024: Our paper, [The Science of Detecting LLM-Generated Text](https://cacm.acm.org/research/the-science-of-detecting-llm-generated-text/), has been accepted for a cover publication in the April 2024 issue of Communications of the ACM (CACM)!
 
 - Mar. 2024: Two papers have been accepted by the NAACL 2024
 
