@@ -19,10 +19,11 @@ National ChengChi University, Taipei, Taiwan
 National ChengChi University, Taipei, Taiwan
 
 ### Internship
+- **Machine learning Research Intern** at Apple Inc., Cupertino, CA., 2024
 
-- **Research Intern** at Samsung Research America., 2023
+- **Research Intern** at Samsung Research America, Mountain View, CA., 2023
 
-- **Data Scientist Intern** at KKBOX., 2020
+- **Data Scientist Intern** at KKBOX Inc., Taipei, Taiwan, 2020
 
 ### Resaerch Experience
 
@@ -39,4 +40,4 @@ Topic: Textaul-aware Recommeder Systems with Language Models.
 
 ### Professional Service
 
-* Reviewer: KDD, NeurIPS, ICLR, CIKM, IEEE TAI, IEEE TIST, IEEE ICHI
+* Reviewer: KDD, NeurIPS, ICLR, ICML, CIKM, ACL, NNACL, EMNLP, IEEE TAI, IEEE TIST, IEEE ICHI

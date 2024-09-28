@@ -29,22 +29,29 @@ Email: ynchuang [at] rice [dot] edu
 
 
 ### News
+- Sep. 2024: Two papers have been accepted by EMNLP 2024 
+
+- Sep. 2024: One paper has been selected as the oral paper (9% of oral accept rate) at Baylearn Machine Learning Symposium 2024, held by Apple, Google, UC Berkeley, etc.
+
+- Aug. 2024: Checkout our recent benchmarking works on [Time series foundation models](https://arxiv.org/abs/2406.14045), [KV Cache compression](https://arxiv.org/abs/2407.01527), and [LLM evaluation](https://arxiv.org/abs/2408.13704)
+
+- Jul. 2024: One paper accepted by TKDD 2024
+
+- May 2024: I started my internship at Apple!
 
 - May 2024: One paper has been accepted by ICML 2024
 
 - Mar. 2024: Our paper, [The Science of Detecting LLM-Generated Text](https://cacm.acm.org/research/the-science-of-detecting-llm-generated-text/), has been accepted for a cover publication in the April 2024 issue of Communications of the ACM (CACM)!
 
-- Mar. 2024: Two papers have been accepted by the NAACL 2024
+- Mar. 2024: Two papers have been accepted by NAACL 2024
 
 - Jan. 2024: One paper has been accepted by the Journal of Biomedical Informatics
-
-- Jan. 2024: Our paper, 'The Science of Detecting LLM-Generated Texts,' has been accepted and selected as a highlighted publication, accompanied by an original video, in the April 2024 issue of Communications of ACM.
 
 - Oct. 2023: Our paper has been selected as CIKM 2023 Best Demo Paper Honorable Mention!
 
 - Aug. 2023: One paper has been accepted by CIKM 2023
 
-- May 2023: I started my internship at Samsung Research America
+- May 2023: I started my internship at Samsung Research America!
 
 - Jan. 2023: One paper has been accepted by ICLR 2023
 
