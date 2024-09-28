@@ -37,7 +37,7 @@ Email: ynchuang [at] rice [dot] edu
 
 - Jul. 2024: One paper accepted by TKDD 2024
 
-- May 2024: I started my internship at Apple
+- May 2024: I started my internship at Apple!
 
 - May 2024: One paper has been accepted by ICML 2024
 
@@ -51,7 +51,7 @@ Email: ynchuang [at] rice [dot] edu
 
 - Aug. 2023: One paper has been accepted by CIKM 2023
 
-- May 2023: I started my internship at Samsung Research America
+- May 2023: I started my internship at Samsung Research America!
 
 - Jan. 2023: One paper has been accepted by ICLR 2023
 
