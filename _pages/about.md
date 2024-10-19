@@ -57,7 +57,7 @@ Email: ynchuang [at] rice [dot] edu
 
 - Jul. 2022: One paper has been accepted by ICML 2022
 
-- Aug. 2020: One paper has been accepted by CIKM 2020
+<!-- - Aug. 2020: One paper has been accepted by CIKM 2020
 
 - May 2020: One paper has been accepted by UAI 2020
-
+ -->
