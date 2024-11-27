@@ -21,14 +21,16 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Yu-Neng (Allen) Chuang, a fourth-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthiness (Uncertainty, Explainability, and Safety) of Large Language Models (LLMs), LLMs Reasoning and Alignment, and Multi-Agent Planning.
+I’m Yu-Neng (Allen) Chuang, a fourth-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthiness (Uncertainty, Explainability, and Safety) of Large Language Models (LLMs), LLMs Reasoning and Alignment, and Multi-Agent Planning.
 
 Email: ynchuang [at] rice [dot] edu
 
 ### News
+- Nov. 2024: I am honor to received the Ken Kennedy Institute 2024/25 Andrew Ladd Memorial Fellowship!
+
 - Sep. 2024: Two papers have been accepted by EMNLP 2024 
 
-- Sep. 2024: One paper has been selected as the oral paper (9% of oral accept rate) at Baylearn Machine Learning Symposium 2024, held by Apple, Google, UC Berkeley, etc.
+- Sep. 2024: One paper has been selected as the oral paper (10% of oral accept rate) at Baylearn Machine Learning Symposium 2024, held by Apple, Google, UC Berkeley, etc.
 
 - Aug. 2024: Checkout our recent benchmarking works on [Time series foundation models](https://arxiv.org/abs/2406.14045), [KV Cache compression](https://arxiv.org/abs/2407.01527), and [LLM evaluation](https://arxiv.org/abs/2408.13704)
 
