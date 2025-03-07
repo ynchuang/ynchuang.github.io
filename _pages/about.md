@@ -21,11 +21,14 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Yu-Neng (Allen) Chuang, a fourth-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthiness (Uncertainty, Explainability, and Safety) of Large Language Models (LLMs), LLMs Reasoning and Alignment, and Multi-Agent Planning.
+I’m Yu-Neng Chuang, a fourth-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthiness (Uncertainty, Explainability, and Safety) of Large Language Models (LLMs), LLMs Reasoning and Alignment, and Multi-Agent Planning.
 
 Email: ynchuang [at] rice [dot] edu
 
 ### News
+
+- Jan. 2025: One paper accepted by NAACL 2025 (Finding). See you in Albuquerque!
+
 - Nov. 2024: I am honor to received the Ken Kennedy Institute 2024/25 Andrew Ladd Memorial Fellowship!
 
 - Sep. 2024: Two papers have been accepted by EMNLP 2024 
