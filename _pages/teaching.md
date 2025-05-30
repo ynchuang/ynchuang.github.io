@@ -19,6 +19,8 @@ National ChengChi University, Taipei, Taiwan
 National ChengChi University, Taipei, Taiwan
 
 ### Internship
+- **Research Intern** at Google DeepMind, New York, NY., 2025
+
 - **Machine learning Research Intern** at Apple Inc., Cupertino, CA., 2024
 
 - **Research Intern** at Samsung Research America, Mountain View, CA., 2023

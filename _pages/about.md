@@ -21,14 +21,23 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-Howdy! I’m Yu-Neng Chuang, a fourth-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthiness (Uncertainty, Explainability, and Safety) of Large Language Models (LLMs), LLMs Reasoning and Alignment, and Multi-Agent Planning.
+Howdy! I’m Yu-Neng Chuang, a fourth-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthiness (Explainability and Safety) of Large Language Models (LLMs), LLM Reasoning, and LLM Efficiency.
 
 Email: ynchuang [at] rice [dot] edu
 
 
 ### News
+- May 2025: I started my internship at Google DeepMind!
 
-- Jan. 2025: One paper accepted by NAACL 2025 (Finding). See you in Albuquerque!
+- Checkout our latest survey on [efficient LLM reasoning](https://arxiv.org/abs/2503.16419)! Feel free to [UPVOTE](https://huggingface.co/papers/2503.16419)
+
+- May 2025: One paper has accepted by KDD 2025. See you in Toronto!
+
+- May 2025: Two paper have accepted by ACL 2025. See you in Vienna!
+
+- May 2025: One paper has accepted by ICML 2025.
+
+- Jan. 2025: One paper has accepted by NAACL 2025 (Finding). See you in Albuquerque!
 
 - Nov. 2024: I am honor to received the Ken Kennedy Institute 2024/25 Andrew Ladd Memorial Fellowship!
 
@@ -51,8 +60,6 @@ Email: ynchuang [at] rice [dot] edu
 - Jan. 2024: One paper has been accepted by the Journal of Biomedical Informatics
 
 - Oct. 2023: Our paper has been selected as CIKM 2023 Best Demo Paper Honorable Mention!
-
-- Aug. 2023: One paper has been accepted by CIKM 2023
 
 - May 2023: I started my internship at Samsung Research America!
 
