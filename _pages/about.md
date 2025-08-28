@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Duncan Hall, 3014</p>
-    <p>6100 Main St</p>
-    <p>Houston, TX 77005</p>
+    <p>Rice University</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -25,7 +24,7 @@ Howdy! I’m Yu-Neng Chuang, a final-year Ph.D. candidate from the Department of
 
 My research interests include (1) Multi-modal Agentic LLMs, (2) LLM Reasoning, (3) LLM Routing and Uncertainty. Currently, I am focusing on efficient LLM reasoning, LLM routing with uncertainty, and LLM reasoning for agentic tool usage.
 
-I was a research intern at <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at <img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>.
+I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at Apple <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at Samsung Reserach America<img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>.
 
 <span style="color:red"> 🔥 I am actively seeking full-time Research Scientist/Engineer opportunities starting in May 2026!</span>
 
@@ -37,7 +36,7 @@ Email: ynchuang [at] rice [dot] edu
 
 - May 2025: I started my internship as a research intern at Google DeepMind!
 
-- May 2025: Checkout our latest survey on [efficient LLM reasoning](https://arxiv.org/abs/2503.16419)! Feel free to [UPVOTE](https://huggingface.co/papers/2503.16419)
+- May 2025: Checkout our latest survey on [Efficient LLM reasoning](https://arxiv.org/abs/2503.16419)! Feel free to [UPVOTE](https://huggingface.co/papers/2503.16419)
 
 - May 2025: One paper has accepted by KDD 2025. See you in Toronto!
 
