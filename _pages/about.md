@@ -19,21 +19,29 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-### About me
+### About Me
+---
+Howdy! I’m Yu-Neng Chuang, a final-year Ph.D. candidate from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University.
 
-Howdy! I’m Yu-Neng Chuang, a fourth-year Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University. My research interests include Trustworthiness (Explainability and Safety) of Large Language Models (LLMs), LLM Reasoning, and LLM Efficiency.
+My research interests include (1) Multi-modal Agentic LLMs, (2) LLM Reasoning, (3) LLM Routing and Uncertainty. Currently, I am focusing on efficient LLM reasoning, LLM routing with uncertainty, and LLM reasoning for agentic tool usage.
+
+I was a research intern at <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at <img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>.
+
+<span style="color:red"> 🔥 I am actively seeking full-time Research Scientist/Engineer opportunities starting in May 2026!</span>
 
 Email: ynchuang [at] rice [dot] edu
 
-
 ### News
-- May 2025: I started my internship at Google DeepMind!
+---
+- Aug. 2025: Three papers have accepted by EMNLP 2025!
 
-- Checkout our latest survey on [efficient LLM reasoning](https://arxiv.org/abs/2503.16419)! Feel free to [UPVOTE](https://huggingface.co/papers/2503.16419)
+- May 2025: I started my internship as a research intern at Google DeepMind!
+
+- May 2025: Checkout our latest survey on [efficient LLM reasoning](https://arxiv.org/abs/2503.16419)! Feel free to [UPVOTE](https://huggingface.co/papers/2503.16419)
 
 - May 2025: One paper has accepted by KDD 2025. See you in Toronto!
 
-- May 2025: Two paper have accepted by ACL 2025. See you in Vienna!
+- May 2025: Two papers have accepted by ACL 2025. See you in Vienna!
 
 - May 2025: One paper has accepted by ICML 2025.
 
