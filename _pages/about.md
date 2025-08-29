@@ -24,7 +24,7 @@ Howdy! I’m Yu-Neng Chuang, a final-year Ph.D. candidate from the Department of
 
 My research interests include (1) Multi-modal Agentic LLMs, (2) LLM Reasoning, (3) LLM Routing and Uncertainty. Currently, I am focusing on efficient LLM reasoning, LLM routing with uncertainty, and LLM reasoning for agentic tool usage.
 
-I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at Apple <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at Samsung Reserach America<img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>.
+I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at Apple <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at Samsung Reserach America<img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>. I am currently working on industrial collaboration project with Meta AI <img src="assets/img/meta.png" alt="Meta AI" style="height: 15px; margin-bottom: 6px;"/>.
 
 <span style="color:red"> 🔥 I am actively seeking full-time Research Scientist/Engineer opportunities starting in May 2026!</span>
 
