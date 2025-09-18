@@ -11,6 +11,7 @@ profile:
   address: >
     <p>Duncan Hall, 3014</p>
     <p>Rice University</p>
+    <p>ynchuang [at] rice [dot] edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -27,8 +28,6 @@ My research interests include (1) Multi-modal Agentic LLMs, (2) Efficient LLM (L
 I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at Apple <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at Samsung Reserach America<img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>. I am currently working on industrial collaboration project with Meta AI <img src="assets/img/meta.png" alt="Meta AI" style="height: 15px; margin-bottom: 6px;"/>.
 
 <span style="color:red"> 🔥 I am actively seeking full-time Research Scientist/Engineer opportunities starting in May 2026!</span>
-
-Email: ynchuang [at] rice [dot] edu
 
 ### News
 ---
