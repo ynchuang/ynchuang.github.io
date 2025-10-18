@@ -23,9 +23,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 Howdy! I’m Yu-Neng Chuang, a final-year Ph.D. candidate from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Dr. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University.
 
-My research interests include (1) Multi-modal Agentic LLMs, (2) Efficient LLM (Long Context & Efficient Reasoning), (3) LLM Routing and Uncertainty. Currently, I am focusing on efficient LLM reasoning, LLM Agent Memory, and LLM reasoning for agentic tool usage.
+I aim to build reliable and efficient LLM systems through techniques such as efficient long-context reasoning and mechanism interpretation, uncertainty-guided routing, and multimodal agent systems. Currently, I am working on post-training and reimforcement learning for efficient LLM reasoning and mechanism nterpretation, and multimodal LLM agents.
 
-I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at Apple <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at Samsung Reserach America<img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>. I am currently working on industrial collaboration project with Meta AI <img src="assets/img/meta.png" alt="Meta AI" style="height: 15px; margin-bottom: 6px;"/>.
+<!-- My research interests include (1) Multi-modal Agentic LLMs, (2) Efficient LLM (Long Context & Efficient Reasoning), (3) LLM Routing and Uncertainty. Currently, I am focusing on efficient LLM reasoning, LLM Agent Memory, and LLM reasoning for agentic tool usage. -->
+
+I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at Apple <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at Samsung Reserach America<img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>. I am currently working on industrial collaboration project with Meta AI <img src="assets/img/meta.png" alt="Meta AI" style="height: 15px; margin-bottom: 6px;"/>. 
+
 
 <span style="color:red"> 🔥 I am actively seeking full-time Research Scientist/Engineer opportunities starting in May 2026!</span>
 
