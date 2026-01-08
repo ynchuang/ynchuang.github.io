@@ -32,6 +32,10 @@ I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" al
 
 ### News
 ---
+- Jan. 2026: One papers have accepted by EACL 2025!
+
+- Nov. 2025: Three papers have accepted by NeurIPS 2025!
+
 - Aug. 2025: Three papers have accepted by EMNLP 2025!
 
 - May 2025: I started my internship as a research intern at Google DeepMind!
@@ -44,7 +48,7 @@ I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" al
 
 - May 2025: One paper has accepted by ICML 2025.
 
-- Jan. 2025: One paper has accepted by NAACL 2025 (Finding). See you in Albuquerque!
+- Jan. 2025: One paper has accepted by NAACL 2025. See you in Albuquerque!
 
 - Nov. 2024: I am honor to received the Ken Kennedy Institute 2024/25 Andrew Ladd Memorial Fellowship!
 
