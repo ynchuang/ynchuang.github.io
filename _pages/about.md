@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About Me
 ---
-Howdy! I’m Yu-Neng Chuang, a final-year Ph.D. candidate from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Dr. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University.
+Howdy! I’m Yu-Neng Chuang. I received my Ph.D. degree from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Dr. [Vladimir Braverman](https://cs.rice.edu/~vb21/). Before that, I received my bachelor’s degree in Mathematics and my master’s degree in Computer Science, both from National ChengChi University.
 
 I aim to build reliable and efficient LLM systems through LLM post-training techniques such as efficient long-context reasoning, uncertainty-guided routing, and multimodal agent systems. Currently, I am working on post-training and reinforcement learning for LLM reasoning and multimodal LLM agents.
 
@@ -32,7 +32,9 @@ I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" al
 
 ### News
 ---
-- Jan. 2026: One papers have accepted by EACL 2025!
+- Apr. 2026: One paper has accepted by ACL Finding 2026!
+
+- Jan. 2026: One paper has accepted by EACL 2026 Oral!
 
 - Nov. 2025: Three papers have accepted by NeurIPS 2025!
 
