@@ -32,6 +32,8 @@ I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" al
 
 ### News
 ---
+- May. 2026: Two papers have accepted by ICML 2026! [Paper](https://arxiv.org/pdf/2511.00640)
+
 - Apr. 2026: One paper has accepted by ACL Finding 2026!
 
 - Jan. 2026: One paper has accepted by EACL 2026 Oral!
