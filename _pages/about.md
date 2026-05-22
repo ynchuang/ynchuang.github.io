@@ -9,8 +9,6 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Duncan Hall, 3014</p>
-    <p>Rice University</p>
     <p>ynchuang [at] rice [dot] edu</p>
 
 news: false  # includes a list of news items
