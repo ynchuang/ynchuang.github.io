@@ -8,8 +8,6 @@ profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>ynchuang [at] rice [dot] edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,10 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 ### About Me
 ---
-Howdy! I’m Yu-Neng Chuang. I am a research scientist at Google DeepMin, working on frontier Gemini models via mid-training and post-training for personalization and recommendation. I hold a Ph.D. in Computer Science from [Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Dr. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
+Howdy! I’m Yu-Neng Chuang. I am a research scientist at Google DeepMind, working on frontier Gemini models via mid-training and post-training for personalization and recommendation. I hold a Ph.D. in Computer Science from [Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Dr. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
 
 ### News
+{: .news-heading}
 ---
 <div class="news-scroll" markdown="1">
 

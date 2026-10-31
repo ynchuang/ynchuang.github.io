@@ -1084,3 +1084,9 @@ nav[data-toggle="toc"] {
     border-radius: 3px;
   }
 }
+
+// Start the News section below the floated profile photo
+.news-heading {
+  clear: both;
+  padding-top: 1.5rem;
+}
