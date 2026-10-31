@@ -19,17 +19,26 @@ social: true  # includes social icons at the bottom of the page
 
 ### About Me
 ---
-Howdy! I’m Yu-Neng Chuang. I am a research scientist at Google DeepMind. I hold a Ph.D. in Computer Science from [Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Dr. [Vladimir Braverman](https://cs.rice.edu/~vb21/). I aim to build reliable and efficient LLM agentic systems through LLM pre-training and post-training.
+Howdy! I’m Yu-Neng Chuang. I am a research scientist at Google DeepMind. I work on frontier Gemini models via mid-training and post-training for personalization and recommendation. I hold a Ph.D. in Computer Science from [Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Dr. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
-<!-- I was a research intern at Google Deepmind <img src="assets/img/deepmind.png" alt="Google DeepMind" style="height: 15px; margin-bottom: 6px;"/>, was a research intern at Apple <img src="assets/img/apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/>, and was a research intern at Samsung Reserach America<img src="assets/img/samsung.jpeg" alt="Samsung Research America" style="height: 15px; margin-bottom: 6px;"/>. I am currently working on industrial collaboration project with Meta AI <img src="assets/img/meta.png" alt="Meta AI" style="height: 15px; margin-bottom: 6px;"/>.  -->
 
 ### News
 ---
-- May. 2026: Two papers have accepted by ICML 2026! [Paper](https://arxiv.org/pdf/2511.00640)
+<div class="news-scroll" markdown="1">
+
+- Oct. 2026: Received Outstanding Paper Award at EMNLP 2026 🏆
+
+- Oct. 2026: One paper accepted to EMNLP 2026!
+
+- Jul. 2026: One paper has accepted by COLM 2026!
+
+- Jun. 2026: One paper has accepted by TMLR!
+
+- May. 2026: Two papers have accepted by ICML 2026!
 
 - Apr. 2026: One paper has accepted by ACL Finding 2026!
 
-- Jan. 2026: One paper has accepted by EACL 2026 Oral!
+- Jan. 2026: One paper has accepted by EACL 2026!
 
 - Nov. 2025: Three papers have accepted by NeurIPS 2025!
 
@@ -74,6 +83,8 @@ Howdy! I’m Yu-Neng Chuang. I am a research scientist at Google DeepMind. I hol
 - Jan. 2023: One paper has been accepted by ICLR 2023
 
 - Jul. 2022: One paper has been accepted by ICML 2022
+
+</div>
 
 <!-- - Aug. 2020: One paper has been accepted by CIKM 2020
 
